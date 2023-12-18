@@ -1,11 +1,3 @@
-/** 
-Author: Build Rise Shine with Nyros (BRS) 
-Created: 2023 
-Library / Component: Script file
-Description: Letter Type Effect
-(c) Copyright by BRS with Nyros. 
-**/
-
 /* Get Our Elements */
 const containerDiv = document.getElementById("content");
 const resetBtn = document.getElementById("resetBtn");
